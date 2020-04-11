@@ -11,7 +11,6 @@ namespace ClutchCo
 
 		private const string UrlPage0 = "https://clutch.co/web-developers?sort_by=0&min_project_size=&avg_hrly_rate=&employees=&client_focus=&industry_focus=&location%5Bcountry%5D=&form_id=spm_exposed_form&form_build_id=form-RQgzZmlmLrH_PsYK5bzSXnRxbYNqX3ERD0ZO1voiztk";
 
-
 		static void Main(string[] args)
 		{
 			var manager = new Manager();
